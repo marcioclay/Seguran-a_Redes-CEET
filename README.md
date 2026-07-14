@@ -29,20 +29,20 @@ Unidade IV – Mecanismos de  Proteção
 - Firewalls
 - eBPF/xdp
 - ACLs
-NAT e segurança
-IDS e IPS
+- NAT e segurança
+- IDS e IPS
 - Segmentação por VLAN
 - DMZ
 - VPN (IPSec e SSL)
-Segurança em Wi-Fi (WPA2/WPA3)
-Criptografia simétrica e assimétrica
-Hashes
-Certificados Digitais
-PKI
-HTTPS
-SSH
-DNSSEC (conceitos)
-Segurança em serviços de rede
+- Segurança em Wi-Fi (WPA2/WPA3)
+- Criptografia simétrica e assimétrica
+- Hashes
+- Certificados Digitais
+- PKI
+- HTTPS
+- SSH
+- DNSSEC (conceitos)
+- Segurança em serviços de rede
 
 
 Método de Avaliação:
