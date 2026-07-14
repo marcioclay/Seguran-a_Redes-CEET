@@ -1,22 +1,31 @@
-# Seguran-a_Redes-CEET
+# Segurança_Redes-CEET
 
 Unidade I – Fundamentos de Segurança 
-Segurança da Informação
+
+Segurança da Informação, conceitos
 Tríade CIA
 Engenharia social
 Autenticação, autorização e auditoria
 O que proteger - perímetro
 Vulnerabilidades e ameaças
 
-Unidade II – Ataques em Redes 
-Sniffing
-Spoofing
-ARP Poisoning
-Ataques DoS e DDoS
-Ataques slow
-Ataques a redes sem fio
+Unidade II – Perímetro 
 
-Unidade III – Mecanismos de  Proteção 
+- Serviços DNS e DHCP
+- Servidor de arquivos
+- Rede WIFI
+- Switch e routers
+- Estações de trabalho
+- Sensores e autuadores em IIoT
+
+Unidade III – Ameças ao Perímetro
+
+- DoS e DDoS
+- Slow
+- spoofing
+- 
+
+Unidade IV – Mecanismos de  Proteção 
 - Firewalls
 - eBPF/xdp
 - ACLs
@@ -35,40 +44,11 @@ SSH
 DNSSEC (conceitos)
 Segurança em serviços de rede
 
---- 
-Unidade V – Administração Segura (9 h)
-Hardening de servidores
-Hardening de switches e roteadores
-Controle de acesso administrativo
-Backup
-Logs
-SIEM (conceitos)
-Resposta a incidentes
-Boas práticas
-Aulas Práticas Sugeridas
-Configuração de ACL em roteadores.
-Configuração de firewall utilizando pfSense ou OPNsense.
-Captura e análise de pacotes com Wireshark.
-Identificação de ataques utilizando Snort ou Suricata.
-Configuração de VPN.
-Configuração segura de Wi-Fi.
-Hardening de um servidor Linux.
-Análise de logs de segurança.
-Simulação de ataques em ambiente controlado.
-Desenvolvimento de uma política de segurança para uma pequena empresa.
-Metodologia
-Aulas expositivas dialogadas.
-Demonstrações práticas em laboratório.
-Estudos de caso.
-Aprendizagem baseada em problemas (PBL).
-Simulações de ataques em ambiente controlado.
-Desenvolvimento de projeto integrador.
-Avaliação
 
-Sugere-se a seguinte composição:
+Método de Avaliação:
 
-Trabalhos e estudos de caso: 20%
-Atividades práticas em laboratório: 30%
-Projeto final: 20%
-Avaliação teórico-prática: 30%
+- Estudos de caso: 10 pontos (Entrega 5/8)
+- Laboratório1: 30 pontos
+- Laboratório2: 30 pontos
+- Laboratório3: 30 pontos
 
