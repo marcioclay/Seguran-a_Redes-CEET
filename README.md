@@ -2,12 +2,13 @@
 
 Unidade I – Fundamentos de Segurança 
 
-Segurança da Informação, conceitos
-Tríade CIA
-Engenharia social
-Autenticação, autorização e auditoria
-O que proteger - perímetro
-Vulnerabilidades e ameaças
+- Segurança da Informação, conceitos
+- Tríade CIA
+- Engenharia social
+- Autenticação, autorização e auditoria
+- O que proteger - perímetro
+- Vulnerabilidades e ameaças
+- Certificações em cybersecurity
 
 Unidade II – Perímetro 
 
