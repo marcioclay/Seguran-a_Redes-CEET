@@ -15,7 +15,9 @@ Estudos de casos
 
 1. Falha router DDoS
    https://www.tecmundo.com.br/seguranca/407329-falha-de-seguranca-em-roteadores-da-cisco-e-explorada-em-ataques-dos.htm 
-[Estudo de caso sobre DNS](https://github.com/marcioclay/Seguranca_Redes-CEET/blob/main/Laborat%C3%B3rio/seguran%C3%A7a_rede_prefeitura.pdf)
-2. Estudo de caso - segurança de rede da prefeitura
-3. Segurança em rede wireless
-4. Tentativas de intrusão - firewall
+
+2. [Seguranca rede Prefeitura](https://github.com/marcioclay/Seguranca_Redes-CEET/blob/main/Laborat%C3%B3rio/seguran%C3%A7a_rede_prefeitura.pdf)
+   
+3.[Seguranca Wireless](https://github.com/marcioclay/Seguranca_Redes-CEET/blob/main/Laborat%C3%B3rio/Seguranca-Redes-Wireless.pdf)
+   
+4. [Tentaivas de Intrusão](https://github.com/marcioclay/Seguranca_Redes-CEET/blob/main/Laborat%C3%B3rio/tentativas_intrus%C3%A3o.pdf)
