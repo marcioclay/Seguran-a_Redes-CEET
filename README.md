@@ -1,34 +1,28 @@
 # Segurança_Redes-CEET
 
+## Conteúdo Programático
+
 Unidade I – Fundamentos de Segurança 
 
-- Segurança da Informação, conceitos
+- Segurança da Informação
 - Tríade CIA
-- Engenharia social
 - Autenticação, autorização e auditoria
-- O que proteger - perímetro
 - Vulnerabilidades e ameaças
-- Certificações em cybersecurity
+- Engenharia social
+- Perímetro
 
-Unidade II – Perímetro 
+Unidade II – Ataques em Redes
 
-- Serviços DNS e DHCP
-- Servidor de arquivos
-- Rede WIFI
-- Switch e routers
-- Estações de trabalho
-- Sensores e autuadores em IIoT
+- Sniffing
+- Spoofing
+- ARP Poisoning
+- Ataques DoS e DDoS
+- Ataques a redes sem fio
+- Ferramentas de diagnóstico
 
-Unidade III – Ameças ao Perímetro
+Unidade III – Mecanismos de Proteção
 
-- DoS e DDoS
-- Slow
-- spoofing
-- 
-
-Unidade IV – Mecanismos de  Proteção 
 - Firewalls
-- eBPF/xdp
 - ACLs
 - NAT e segurança
 - IDS e IPS
@@ -36,6 +30,9 @@ Unidade IV – Mecanismos de  Proteção
 - DMZ
 - VPN (IPSec e SSL)
 - Segurança em Wi-Fi (WPA2/WPA3)
+
+Unidade IV – Criptografia e Segurança dos Serviços
+
 - Criptografia simétrica e assimétrica
 - Hashes
 - Certificados Digitais
@@ -45,6 +42,15 @@ Unidade IV – Mecanismos de  Proteção
 - DNSSEC (conceitos)
 - Segurança em serviços de rede
 
+Unidade V – Administração Segura 
+
+- Hardening de servidores
+- Hardening de switches e roteadores
+- Controle de acesso administrativo
+- Backup
+- Logs e documentação
+- Resposta a incidentes
+- Boas práticas
 
 Método de Avaliação:
 
