@@ -1,20 +1,33 @@
+[![Segurança](https://img.shields.io/badge/Segurança-v1.0+-blue?logo=shield)](#)
+[![Firewall](https://img.shields.io/badge/Firewall-Active-red?logo=firefox)](#)
+[![Criptografia](https://img.shields.io/badge/Criptografia-Enabled-green?logo=lock)](#)
+
+# Perímetro de Defesa
+
 Em Segurança da Informação, perímetro de segurança pode ser entendido como o ambiente, recurso ou área que precisa ser protegida contra ameaças.
 
-Para um curso técnico, uma forma simples é dividir os perímetros em áreas de proteção:
+Perímetros em áreas de proteção:
 
-Perímetro / Área	O que proteger	Exemplos de ameaças
-Físico	Prédios, salas, servidores e equipamentos	Roubo, incêndio, acesso não autorizado
-Rede	Comunicação entre dispositivos	Sniffing, DoS, ataques de rede
-Perímetro externo	Conexão entre Internet e empresa	Malware, ataques externos, DDoS
-Servidores	Sistemas e serviços	Exploração de vulnerabilidades, brute force
-Estações de trabalho	Computadores e notebooks	Malware, ransomware, phishing
-Identidade e acesso	Usuários, contas e permissões	Roubo de credenciais, acesso indevido
-Aplicações	Sistemas e serviços web	SQL Injection, XSS, exploração de falhas
-Dados	Arquivos, bancos de dados e informações	Roubo, alteração, exclusão
-Wi-Fi	Comunicação sem fio	Evil Twin, acesso não autorizado
-Dispositivos IoT/IIoT	Sensores, atuadores e gateways	Credenciais padrão, botnets, spoofing
-Nuvem	Serviços e dados hospedados na nuvem	Configuração incorreta, vazamento
-Usuários	Pessoas que utilizam os sistemas	Engenharia social, phishing
+
+| Perímetro / Área          | O que proteger                            | Exemplos de ameaças                         |
+| ------------------------- | ----------------------------------------- | ------------------------------------------- |
+| **Físico**                | Prédios, salas, servidores e equipamentos | Roubo, incêndio, acesso não autorizado      |
+| **Rede**                  | Comunicação entre dispositivos            | Sniffing, DoS, ataques de rede              |
+| **Perímetro externo**     | Conexão entre Internet e empresa          | Malware, ataques externos, DDoS             |
+| **Servidores**            | Sistemas e serviços                       | Exploração de vulnerabilidades, brute force |
+| **Estações de trabalho**  | Computadores e notebooks                  | Malware, ransomware, phishing               |
+| **Identidade e acesso**   | Usuários, contas e permissões             | Roubo de credenciais, acesso indevido       |
+| **Aplicações**            | Sistemas e serviços web                   | SQL Injection, XSS, exploração de falhas    |
+| **Dados**                 | Arquivos, bancos de dados e informações   | Roubo, alteração, exclusão                  |
+| **Wi-Fi**                 | Comunicação sem fio                       | Evil Twin, acesso não autorizado            |
+| **Dispositivos IoT/IIoT** | Sensores, atuadores e gateways            | Credenciais padrão, botnets, spoofing       |
+| **Nuvem**                 | Serviços e dados hospedados na nuvem      | Configuração incorreta, vazamento           |
+| **Usuários**              | Pessoas que utilizam os sistemas          | Engenharia social, phishing                 |
+
+
+
+
+
 Uma visão simples da empresa
                          INTERNET
                              │
