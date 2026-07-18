@@ -1,5 +1,7 @@
 ## Vulnerabilidades e Ameaças
 
+
+
 Em segurança de redes, é importante diferenciar vulnerabilidade, ameaça, ataque e risco. Esses conceitos estão relacionados, mas representam situações diferentes.
 
 ### 1. :monkey: Vulnerabilidade
