@@ -1,4 +1,7 @@
 # Segurança_Redes-CEET
+[![Segurança](https://img.shields.io/badge/Segurança-v1.0+-blue?logo=shield)](#)
+[![Firewall](https://img.shields.io/badge/Firewall-Active-red?logo=firefox)](#)
+[![Criptografia](https://img.shields.io/badge/Criptografia-Enabled-green?logo=lock)](#)
 
 ## Conteúdo Programático
 
