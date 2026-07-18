@@ -55,23 +55,14 @@ Exemplo prático
 Um atacante envia um e-mail de phishing:
 
 
-Atacante
-   │
-   ▼
-Usuário
-   │
-   ▼
-Estação de trabalho
-   │
-   ▼
-Rede corporativa
-   │
-   ▼
-Servidor
-   │
-   ▼
-Dados
-
+```mermaid
+flowchart TD
+    A[Atacante] --> B[Usuário]
+    B --> C[Estação de trabalho]
+    C --> D[Rede corporativa]
+    D --> E[Servidor]
+    E --> F[Dados]
+```
 
 Nesse caso, o ataque pode atravessar vários perímetros:
 
