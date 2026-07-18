@@ -1,4 +1,10 @@
 ## Fundamentos de Segurança de Redes
+
+[![Containerlab](https://img.shields.io/badge/Containerlab-v0.50+-blue?logo=linux)](https://containerlab.dev)
+[![Docker](https://img.shields.io/badge/Docker-required-blue?logo=docker)](https://www.docker.com)
+[![eBPF](https://img.shields.io/badge/eBPF-XDP-orange)](https://ebpf.io)
+[![Licença](https://img.shields.io/badge/licença-GPL--2.0-green)](LICENSE)
+[![Linguagem](https://img.shields.io/badge/linguagem-C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
  
 A segurança é vista como uma qualidade de serviço que garante o fornecimento do serviço, mesmo diante de ações de indivíduos não autorizados no sistema.
 
@@ -19,7 +25,7 @@ Por isso, três conceitos fundamentais são:
 - Integridade;
 - Autenticidade.
 
-1. Confidencialidade
+### 1. :alien: Confidencialidade 
 
 A confidencialidade garante que uma informação seja acessada apenas por pessoas ou sistemas autorizados.
 
@@ -49,7 +55,7 @@ Exemplo
 
 Um banco de dados contém informações de clientes. A confidencialidade garante que apenas usuários autorizados possam consultar esses dados.
 
-2. Integridade
+### 2. :fire: Integridade
 
 A integridade garante que uma informação não seja modificada de forma indevida.
 
@@ -107,7 +113,7 @@ Exemplo
 
 Ao baixar um programa, o fabricante pode fornecer o hash do arquivo. O usuário calcula o hash do arquivo baixado e compara os valores.
 
-3. Autenticidade
+### 3. :foggy: Autenticidade
 
 A autenticidade permite verificar se uma pessoa, dispositivo ou sistema é realmente quem afirma ser.
 
